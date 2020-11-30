@@ -27,6 +27,23 @@ Video: https://youtu.be/iw7_2ZEutHE
 
 ## Governance
 
+SIG Best Practices is a [CDF Special Interest Group](https://github.com/cdfoundation/toc/tree/master/sigs).
+
+The process SIG Interoperability follows can be seen from [here](https://github.com/cdfoundation/toc/blob/master/GROUPS.md#sigs).
+
+Chairs and the TOC Sponsor of the SIG are
+
+* Mauricio Salatino ([@salaboy](https://github.com/salaboy)), Camunda - Chair
+* Christie Wilson ([@bobcatfish](https://github.com/bobcatfish)), Google - Chair
+* Tara Hernandez ([@tequilarista](https://github.com/tequilarista)), Google - TOC Sponsor
+
 ## Communication
+
+SIG Best Practices communication happens via a public mailing list and everyone is welcome to join our open discussions.
+
+SIG Best Practices  also uses Slack for additional collaboration opportunities.
+
+* Maillist: https://lists.cd.foundation/g/sig-bestpractices
+* Slack Channel: #sig-interoperability on [CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
 
 ## Meetings
