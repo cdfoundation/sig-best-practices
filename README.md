@@ -47,3 +47,11 @@ SIG Best Practices  also uses Slack for additional collaboration opportunities.
 * Slack Channel: #sig-bestpractices on [CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
 
 ## Meetings
+
+SIG Best Practices meets every other week on Monday at 16:00UTC. (*See your timezone [here](https://time.is/1600_in_UTC)*).
+
+* Meeting agenda and minutes: [here](./docs/meetings.md)
+* Meeting recordings: [here](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9QxICOnONBFPn_cYfJ8BsaG)
+* Zoom Bridge: [here](https://zoom.us/j/3056520502)
+* Zoom International dial-in numbers: [here](https://zoom.us/zoomconference)
+* CDF Public Calendar (UTC): [here](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC)
