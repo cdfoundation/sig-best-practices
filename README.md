@@ -52,7 +52,7 @@ SIG Best Practices  also uses Slack for additional collaboration opportunities.
 
 SIG Best Practices meets every other week on Monday at 16:00UTC. (*See your timezone [here](https://time.is/1600_in_UTC)*).
 
-* Meeting agenda and minutes: [here](./docs/meetings.md)
+* Meeting agenda and minutes: [here](./doc/meetings.md)
 * Meeting recordings: [here](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9QxICOnONBFPn_cYfJ8BsaG)
 * Zoom Bridge: [here](https://zoom.us/j/3056520502)
 * Zoom International dial-in numbers: [here](https://zoom.us/zoomconference)
