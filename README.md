@@ -43,7 +43,7 @@ SIG Best Practices communication happens via a public mailing list and everyone 
 
 SIG Best Practices  also uses Slack for additional collaboration opportunities.
 
-* Maillist: https://lists.cd.foundation/g/sig-bestpractices
+* Maillist: https://lists.cd.foundation/g/sig-best-practices
 * Slack Channel: #sig-bestpractices on [CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
 
 ## Meetings
