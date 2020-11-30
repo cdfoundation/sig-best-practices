@@ -18,6 +18,8 @@ Nevertheless, today every organization that wants to achieve that is forced to g
 
 Video: https://youtu.be/iw7_2ZEutHE
 
+Full SIG Proposal: https://github.com/cdfoundation/toc/blob/master/sigs/best-practices-sig.md
+
 ## Members
 
 * Mauricio Salatino ([@salaboy](https://github.com/salaboy)), Camunda
