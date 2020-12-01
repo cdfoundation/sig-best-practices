@@ -31,7 +31,7 @@ Full SIG Proposal: https://github.com/cdfoundation/toc/blob/master/sigs/best-pra
 
 SIG Best Practices is a [CDF Special Interest Group](https://github.com/cdfoundation/toc/tree/master/sigs).
 
-The process SIG Interoperability follows can be seen from [here](https://github.com/cdfoundation/toc/blob/master/GROUPS.md#sigs).
+The process SIG Best Practices follows can be seen from [here](https://github.com/cdfoundation/toc/blob/master/GROUPS.md#sigs).
 
 Chairs and the TOC Sponsor of the SIG are
 
