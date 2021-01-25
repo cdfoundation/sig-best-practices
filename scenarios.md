@@ -33,7 +33,8 @@ The following services are running in a Production Environment:
 
 # Scenario 1
 
-Service B has a new release v0.5.1.
+Service B has a new release v0.5.1. 
+What stepts are needed to get this new version out in front of our users? 
 
 ## Questions
 - What tools, practices and automation needs to be in place to be able to upgrade Service B from v0.5.0 to v0.5.1 in that Production Environment? 
