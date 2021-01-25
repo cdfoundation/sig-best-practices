@@ -43,7 +43,7 @@ What stepts are needed to get this new version out in front of our users?
 - What deployment strategy (rolling updates, canary deployment, blue-green deployments, etc) should we choose for this scenario and what are the advantages?
 - What are the contracts defined by Service B that cannot be broken for patch versions? 
 
-
+## Approaches
 
 
 
