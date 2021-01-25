@@ -29,6 +29,8 @@ The following services are running in a Production Environment:
 - Service A v1.0.0
 - Service B v0.5.0
 
+![Services](services.png)
+
 # Scenario 1
 
 Service B has a new release v0.5.1.
