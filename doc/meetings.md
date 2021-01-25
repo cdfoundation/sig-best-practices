@@ -16,6 +16,10 @@ https://docs.google.com/document/d/1IUSmgtw5eC2JwyfiX7IPK3twl3MSjWAsmCKmJ6Y5z-w/
     
 - [CDF End User Council Plan](https://github.com/cdfoundation/end-user-council/blob/main/End%20User%20Council%20Plan%202021.pdf) is focusing on Measuring DevOps Success (e.g. DORA key CD metrics) theme for 2021 Q1
     - best practice SIG would partner with this by providing resources on case studies around these topics -- there are surveys now to try and get more info around this [https://github.com/cdfoundation/end-user-council/discussions](https://github.com/cdfoundation/end-user-council/discussions)
+    
+- Action Items:
+    - ALL - Provide comments for [Cloud Native Scenarios for CD](https://github.com/cdfoundation/sig-best-practices/blob/main/scenarios.md) 
+    - Tara/TracyM/TracyR - create new Github Pages for organizing our mass o' info -- add additional timeline reference that calls out keys technologies to help provide additional context.
 
 11-Jan-2021
 - Plan: workshop CD Whitepaper topics
