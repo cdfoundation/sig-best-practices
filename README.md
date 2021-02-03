@@ -50,7 +50,7 @@ SIG Best Practices  also uses Slack for additional collaboration opportunities.
 
 ## Meetings
 
-SIG Best Practices meets every other week on Monday at 16:00UTC. (*See your timezone [here](https://time.is/1600_in_UTC)*).
+SIG Best Practices meets the 2nd and 4th Monday of every month at 16:00UTC.  (*See your timezone [here](https://time.is/1600_in_UTC)*).
 
 * Meeting agenda and minutes: [here](./doc/meetings.md)
 * Meeting recordings: [here](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9QxICOnONBFPn_cYfJ8BsaG)
