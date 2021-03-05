@@ -1,7 +1,11 @@
+# CDF SIG-Best-Practices
+
+[Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+
 ## 08-Mar-2021
 - Attendees:
 - Agenda:
-    - TBD
+    - Christie can't attend, can someone else handle [the agenda and notes?](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 - Action Items:
     - 
 
