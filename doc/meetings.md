@@ -4,10 +4,22 @@
 
 ## 08-Mar-2021
 - Attendees:
+    - Tracy Miranda
+    - Thomas Schuetz
+    - Terry Cox
+    - Siddharth Pareek
+    
 - Agenda:
     - Christie can't attend, can someone else handle [the agenda and notes?](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+    - [CD definitions](https://docs.google.com/document/d/1IUSmgtw5eC2JwyfiX7IPK3twl3MSjWAsmCKmJ6Y5z-w/edit#)
+        - Christie created an initial PR: https://github.com/cdfoundation/glossary/pull/10
+    - [Best Practices](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.9ji2tp1suza) should become the methodologies used to define the definitions from the CD definitions docs 
+        - This needs the 'why' and 'definition' sections completed before we push it to the repo/markdown
+        - Terry Cox has reference docs that he can pull a lot of these out
+        - Another concept to consider: "scale appropriate fit" as it pertains to size of the problem. e.g. a single Jenkins instance can easily support a small to medium size team.  You also wouldn't use Spinnaker in a small to medium scoped problem. Can we create guidance to help evaluate their needs. Another element of this is understanding the evolution of this -- it's done in steps promted by growth of the team/product size as well as the advancement of technology.
 - Action Items:
-    - 
+    - Terry Cox will update Best Practices doc on "why/definitions"
+
 
 ## 22-Feb-2021
 - Attendees:
