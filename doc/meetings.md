@@ -2,6 +2,57 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 19-Apr-2021
+- Attendees:
+    - Christie Wilson
+    - Kara de la Marck
+    - Tara Hernandez
+    - Terry Cox
+    - Tracy Miranda
+    - Gopinath Rebala
+    - Siddarth Pareek
+
+- Agenda:
+    - Updates to [best practices doc](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.9ji2tp1suza) by Terry Cox
+        - Specifically narrative lead in: why ppl need to be doing best practices, contexts, etc.: [Understanding the problem](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.o7uo3njnwqti)
+        - Related effort: presentation around 4 key DORA metrics, etc., Tracy Miranda doing a write up, includes similar topics, Tracy to look at how to combine the contents
+        - Thinking about audience: technical ppl already deeply involved (i.e. can skip a lot) vs ppl who know it exists but are missing the background that drives the reasoning
+        - Tracy would like to create a blog post from some of this content early and get feedback
+            - First need agreement on picture trying to paint and style
+        - What is the scope of this doc? CI, CD, deployments, etc.?
+            - All of it
+    - Tracy merged [initial CD definitions](https://github.com/cdfoundation/glossary/blob/main/definitions.md#continuous-delivery-definitions), planning to give these a trial run
+        - Context of these definitions? Alignment with best practices doc?
+            - Can see history in PRs + doc links in those descriptions: https://github.com/cdfoundation/glossary/pulls?q=is%3Apr+is%3Aclosed
+                - WIP to finesse the definitions in the best practices doc and the glossary to be aligned (see comments in doc)
+    - Do we want a Birds of a Feather at cdCon?
+        - yes, what scope? e.g. dora metrics as well?
+            - Mulitple audiences, makes sense to have a general session and more targetted sessions
+                - e.g. 100 + 400 (intro and advanced tracks)
+        - anything specific to cover? or general?
+            - e.g. branching and merging strategies, or at the level of "CI", "deployments"
+                - branching: do you develop in a branch or on mainline with feature flags
+                    - entire discussion worthy of its own category
+                    - process for getting started, vs. benefits you can buy with a more complex strategy
+            - could be interesting to talk about all the different ways folks are approaching CD and adopting it
+            - justifying CD to management with a better argument than "because netflix"
+                - Huge mismatch in communication around what it takes to effectively use CD
+                - Need to provide the entry level communication for ppl to grasp onto so they can start on this journey (in addition to providing the more advanced info)
+        - how long until cdCon?
+            - 1 month
+        - CDF should be able to speak to the maturity of "all the things" entailed in developing a software delivery lifecycle
+            - can we do an industry survey to see who's using what (as far as tools, processes)
+            - github, stackoverflow surveys may have some of this data
+        - Siddarth raises the issue of compliance as a critical element that needs focus, particularly for high regulatory industries like finance and healthcare
+            - Terry points out that many companies are more heavily invested in manual approaches to this (and in fact may cause resistance to automating this due to perceived negative impact on job security).
+            - Interoperability SIG has started exploring this idea, looking at https://github.com/open-policy-agent/opa e.g. We probably want to have security compliance as its own set of sections in definitions and best practices.
+
+- Action Items:
+    - All to please review [Understanding the problem](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.o7uo3njnwqti) **by end of the week**
+    - Please take a look at [initial CD definitions](https://github.com/cdfoundation/glossary/blob/main/definitions.md#continuous-delivery-definitions), discussions are on in the repo for feedback (or comment on original PR)
+
+        - 
+
 ## 08-Mar-2021
 - Attendees:
     - Tracy Miranda
