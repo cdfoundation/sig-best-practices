@@ -2,6 +2,71 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 03-May-2021
+- Attendees:
+    - Christie Wilson
+    - Terry Cox
+    - Tara Hernandez
+    - Gopinath Rebala
+
+- Agenda:
+    - IEEE have launched a standard for devops: 2675
+        - https://standards.ieee.org/standard/2675-2021.html
+            - - https://www.researchgate.net/project/IEEE-2675-DevOps-standard
+        - Launch meeting: what is devops? hard to answer!
+            - Any opportunity for us to help out?
+                - Terry Cox is going to be in next sitting of the working group
+    - What is our Best Pratices audience?
+        - Needs to be everyone; way we provide the info is almost as important as the info itself
+            - Need to be able to read the info at the context/level that is relevant for you, without
+              having to leave
+                - Individual implementor vs. decision maker, need different granularity of detail but
+                  it's all part of the same story
+                - Important to go both broad and deep
+                    - Need to drive solid awareness regardless of your role
+    - Process that leads to these methodologies:
+        - Startups are motivated to innovate (e.g. silicon valley)
+        - These folks move around to different companies, spread the ideas around
+        - Media hears about it, spreads the ideas, gives it labels
+        - People start trying to apply the methodologies but without the context they need
+            - Why are we doing this and in what circumstances
+        - People say 'this is the next big thing' but it's not working, so they fiddle with it
+          and redefine it, and then it means what they're already doing
+    - [Best practices doc](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.9ji2tp1suza)
+        - Can we create this multi directional context for each bit in the doc?
+            - e.g. "deployment frequency", frame this at both levels
+                - exec level + technical practioner level
+        - Narrative: hero's journey
+                - Start with: this is the problem we're trying to solve
+                - Refusual: i dont want to do this
+                - Realization : i have to engage with this
+            - Need to flesh out the journey so it's easy to understand
+        - What kind of assumptions can we make about folks coming to the CDF?
+            - e.g. Christie in her book assuming people have some tests/unit tests
+                - Tara: last company, folks saying "can't write tests yet, not done implementing"
+        - Next steps?
+            - Create a [scratch section](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#bookmark=id.70jtt4iov1il)
+              that reminds us what we're trying to flesh out
+            - Views + viewpoints, depending on who the stakeholder is, they'll have a different
+              perspective
+        - Making organizational change happen
+            - So different for different departments; some inherently invested in the status quo
+            - At an exec level: things like, retraining, paying for vendors
+        - Realistically many organizations will not be able to implement devops
+            - Don't want to paint ourselves into a corner
+            - Maybe from the perspective of folks moving into microservices and the cloud, vs for their
+              huge quantities of existing software
+            - Start with: contexts in which devops was designed to be used, for our first iteration
+                - Not trying to boil the ocean; consistent story
+                - Next: implications of wanting to introduce some elements of devops to existing software
+                  and processes
+                - Mismatch b/w ppl who think they are doing devops and folks who are actually capable
+                  of doing devops
+        
+
+- Action Items:
+    - Christie can send survey about different time (more PST friendly hopefully?)
+
 ## 19-Apr-2021
 - Attendees:
     - Christie Wilson
