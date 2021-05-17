@@ -2,6 +2,28 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+
+
+## 17-May-2021
+- Attendees:
+    - Tracy Miranda
+    - Terry Cox
+    - Siddarth Pareek
+    - Tara Hernandez
+
+- Agenda:
+    - Looking at results for survey about time: https://forms.gle/fqtVGCrm2uFsUxmh8 (Christie can't attend today but Tracy Miranda and Tara should have edit access@)
+        - Results so far: 9am PST / 12pm EST is the top choice, but only for 5/7, if anyone absolutely can't do this time plz mention this, we can expand to include other days
+    - Looks like we should have a BoaF spot at cdCon, Tracy to confirm date/time (hopefully a time that works for Terry)
+    - Need an outline "content/copy" -- set of links to github/docs that a landing page can point at for all working groups/SIGs.
+        - Capture idea of "personas" for which content can be tailored, e.g. an exec level explanation vs. a developer level.
+        - Suggestions from outeach committee: https://st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/cdfoundation/outreach/blob/main/personas.md
+            - Possible exercise, flag the [best practices doc](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.9ji2tp1suza) with the persona categories/roles?
+        - Terry added "Governance" and "Instrumentation/Telemetry" categories for key talking points
+    - Tracy shared the "Measure DevOps" paper from End User Council as a model for organizing best practices content.
+    - Next meeting, start work on info layout via https://miro.com/ (can also be used by hopin conference platform)
+
+
 ## 03-May-2021
 - Attendees:
     - Christie Wilson
