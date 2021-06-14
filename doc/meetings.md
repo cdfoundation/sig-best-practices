@@ -2,7 +2,59 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
-
+## 14-June-201
+- Attendees:
+    - Christie Wilson (Google)
+    - Gopinath Rebala (OpsMx)
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Juan Flores (Fidelity)
+    - Anthony O'Gorman (Fidelity)
+    - Chris Riley (Splunk)
+    - Siddharth Pareek (NatWest Group)
+- Agenda:
+    - Best Practices BoF at cdCon
+        - https://sched.co/jn3J
+        - Terry and Tara to moderate
+        - Thursday, June 24 • 2:55pm - 3:25pm EDT
+        - Terry and Tara meeting tomorrow to talk about BoF topics (message Tara if you want to join)
+    - Anthony and Juan to drive Continuos Testing and ask for feedback :)
+    - An expanded survey to find a good time for everyone: https://forms.gle/RFbn4WBJHGUqb2of6
+        - Currently 2pm EST works for 4/6 ppl
+            - Not a good time for India (midnight)
+                - Should we rotate times, one that works for folks in India as well?
+            - Also a challenge for Ireland
+        - Maybe we can use this survey for the next quarter, do another survey with expanded times to find an alternate time? (then alternate b/w 2 times?)
+    - DORA metrics, telemetry
+        - Information architecture
+        - Can't just have a "DORA button"
+            - Folks are comparing metrics when services are not apples to apples
+            - Common Information Model (CIM) for CI/CD telemtry
+        - Best practices such as: ticket numbers in commit messages
+    - Workshopping [best practices doc](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.9ji2tp1suza) - 2 tasks:
+        1. Look for missing topics
+            - Possible topics:
+                - Pipeline metrics are the foundation of devsecops
+                    - Security in the SDLC?
+                        1. Build more secure apps (sonarcube, etc.)
+                        2. Secure the factory (e.g. secret access)
+                        3. _______ (secure the artifacts?)
+                        4. Secure production
+                    - Too specific?
+                        - Currently have a TODO item for security in the context of governance in the doc, could follow up with specific examples in hands on portion of doc
+                        - Feel free to make contribution
+                - Adding a section about what kind of setup do you need to do to be able to do calculations
+                    - Overlap with SIG events? interoperability?
+                        - Common information model
+                            - Security world has this
+                                - (SIM) security information management
+        2. Keep fleshing things out and reviewing
+        - Looking for feedback on [continuous testing section](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#bookmark=id.ey705iffr53i)
+        - Personas
+            - Relevant factors, makes "role" tough:
+                - Size of company
+                - Whether company develops inhouse or hires vendors
+        3. Be sure to join [sig-bestpractices Slack channel](https://cdeliveryfdn.slack.com/archives/C01FQA6890D)
 
 ## 17-May-2021
 - Attendees:
