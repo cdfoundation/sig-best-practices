@@ -2,7 +2,18 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
-## 14-June-201
+## 09-August-2021
+-Attendees:
+    - Tracy Miranda 
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Juan Flores (Fidelity)
+- Agenda:
+    - [Jamboard hacking](https://jamboard.google.com/d/1FOTPWL_dzQXWH0cJKB0OCO267XNEYLX_SN4ppiQ4HHs/) for site layout
+    - More updates and requests for review/feedback in testing section of [best practices doc](https://docs.google.com/document/d/1DojwSRqlTrAoxfE6jp2U4_SIzpefGRfu1OhKYc6_-nQ/edit?ts=602167a7#heading=h.9ji2tp1suza)
+
+
+## 14-June-2021
 - Attendees:
     - Christie Wilson (Google)
     - Gopinath Rebala (OpsMx)
