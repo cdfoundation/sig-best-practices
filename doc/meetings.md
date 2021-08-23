@@ -3,7 +3,7 @@
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
 ## 23-August-2021
--Attendees:
+- Attendees:
     - Tracy Miranda 
     - Tara Hernandez (Google)
     - Terry Cox
@@ -20,7 +20,7 @@
     - Also need to get Nicole and Jan added to CDF github org.
 
 ## 09-August-2021
--Attendees:
+- Attendees:
     - Tracy Miranda 
     - Tara Hernandez (Google)
     - Terry Cox
