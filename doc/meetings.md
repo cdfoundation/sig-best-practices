@@ -2,6 +2,23 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 23-August-2021
+-Attendees:
+    - Tracy Miranda 
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Anthony O'Gorman (Fidelity)
+    - Jan Bultmann (Google)
+    - Nicola Yap (Google)
+- Agenda:
+    - [Jamboard hacking](https://jamboard.google.com/d/1FOTPWL_dzQXWH0cJKB0OCO267XNEYLX_SN4ppiQ4HHs/) for site layout
+    - Welcome Jan and Nicola, pro content developers to help build out the [site](https://cdfoundation.github.io/best-practices/) with regards to content strategy, contributor workflow recommendations, etc.
+         - Nicola suggests something like the [Slsa framwork](https://github.com/slsa-framework/slsa) could be useful.
+    - New todo: establish "personas" or "role archtectypes" that can be used as a way to flag particular content
+    - Terry has started adding MLOps content, looking for comments
+    - Anthony and Juan have added some additional content to test sections, also looking for comments.
+    - Also need to get Nicole and Jan added to CDF github org.
+
 ## 09-August-2021
 -Attendees:
     - Tracy Miranda 
