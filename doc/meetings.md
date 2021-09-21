@@ -10,6 +10,22 @@
     - Anthony O'Gorman (Fidelity)
     - Jan Bultmann (Google)
     - Nicola Yap (Google)
+
+- Agenda
+    - review of information architecture [proposal-in-progress](https://docs.google.com/presentation/d/1mkkgDY3bS5E51kTItvsgj41wusx4xuO3O77HSAC-ERk)
+    - Recommendation to use [CDF-defined personas](https://github.com/cdfoundation/outreach/blob/main/personas.md) for use case/workflow based context
+    - Next steps:
+        - setup of new docs repo, will go with docsy for now as it's being used by Tekton, Kubernetes, other projects.
+        - start to identify possible content contributors from other member projects.
+
+## 23-August-2021
+- Attendees:
+    - Tracy Miranda 
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Anthony O'Gorman (Fidelity)
+    - Jan Bultmann (Google)
+    - Nicola Yap (Google)
 - Agenda:
     - [Jamboard hacking](https://jamboard.google.com/d/1FOTPWL_dzQXWH0cJKB0OCO267XNEYLX_SN4ppiQ4HHs/) for site layout
     - Welcome Jan and Nicola, pro content developers to help build out the [site](https://cdfoundation.github.io/best-practices/) with regards to content strategy, contributor workflow recommendations, etc.
