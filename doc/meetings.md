@@ -2,6 +2,30 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 29-November-2021
+- Attendees:
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Anthony O'Gorman (Fidelity)
+    - Justin Abrahms (eBay)
+    - Nicola Yap (Google)
+    - Jan Bultmann (Google)
+
+
+- Agenda
+    - Best practices site ready for contributors [cdfoundation/best-practices-site](https://github.com/cdfoundation/best-practices-site)
+        - Nicola will include instructions on how to do local versions using Docker, will create auto publish probably via Netfify
+        - Also agreement on things like image files use SVG format, to start 
+    - Justin interested in capturing notes from engaging in DevOps best practices efforts at eBay -- first official use case?
+    - Can we also come up with a good tagging model for documents to improve discoverability e.g.
+        - "here's how Foo company assessed and improved their automated testing needs involving performance stress tests", is tagged to relevant section test best practices overview docs
+        - Nicole thinks this is doable
+    - Proposal to add some sort of discussion around organizational maturity and how that impacts approaches to continuous delivery and DevOps best pratices.
+        - e.g. Agile product driven approaches vs. large legacy enterprise vs. cloud native/greenfield
+        - Having ability to map a company to a model could help them understand best places to start?
+        - [SLSA model](https://slsa.dev/levels) has concepts around this from a "security levels", could we expand this a bit possibly from the perspective of "what problems are you trying to solve, does CD/DevOps helps with this"
+    
+
 ## 23-August-2021
 - Attendees:
     - Tracy Miranda 
