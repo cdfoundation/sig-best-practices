@@ -2,7 +2,7 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
-## 10-January-2022
+## 24-January-2022
 - Attendees:
     - Tara Hernandez (Google)
     - Terry Cox
