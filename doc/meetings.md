@@ -2,6 +2,51 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 10-January-2022
+- Attendees:
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Nicola Yap (Google)
+    - Vaidik Kapoor
+    - Jalandar
+
+- Agenda
+    - Netlify process working session.  Steps!
+        - Pull the source:
+            - ```git clone --recurse-submodules fork-of-https://github.com/cdfoundation/best-practices-site```
+        - Test locally via Docker container (maybe? might be better to use non-containerized local Hugo install). Steps here:
+            - https://preview-site-cdf-bp.netlify.app/community/contribute/ 
+        - Need to sort out dependency checking (local and upstream)
+        - Regen netlify invites for Tara (incomplete registration)
+        - Set up a tracking doc to capture any formatting notes or other site display/user experience - Tara to do this 
+            - having text highlights enclosed in a box vs. just a orange line highlight
+            - single page vs. multi-page content and supporting different narratifve paths through the content
+                - multi-page gives advantage of bringing more detail to TOC and easier bookmarking
+                - Nicola suggests being creative with tags as a way of helping with this.
+        - There's apparently a way to invite 'reviewers' vs. 'contributors' to netlify, reviewers would be able to see and help with PR reviews without consuming a license.
+        - We still need a proper domain/brand for the site as well 
+
+## 10-January-2022
+- Attendees:
+    - Tracy Miranda
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Nicola Yap (Google)
+    - Ann Marie Fred (Red Hat)
+    - Vaidik Kapoor
+
+- Agenda
+    - Mauricio looking to contribute this [repo](https://github.com/salaboy/from-monolith-to-k8s) to CDF, Nicola recommending including principles in main site, and under community section put explicit implemention examples.  Action item to followup on this next meeting.
+    - Staging "preview" site now up [here](https://preview-site-cdf-bp.netlify.app/community/).  Tracy to add more contributors to CDF Netlify account so they can take advantage of using the staging functionality. 
+    - Interoperability SIG and Tekton group has been kicking around glossaries and translations of terms and how they're used between different solutions.  Action item to come up with how best to incorporate this into info architecture.
+        - [Glossary](https://github.com/cdfoundation/glossary/blob/main/definitions.md)
+        - [Rosetta Stone](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/vocabulary.md)
+    - Also, we need to figure out a brand for the final published site.  Tracy will organize a followup meeting and is reaching out to strategy group for suggestions.
+    - Ann Marie mentions that there are two PRs on the interoperability vocabularay content that are influenced by IBM's "One Pipeline" attestation process, describes the steps (and terminology around those steps) that can be useful for any company/project to conform to a regulatory attestation. The hope is that the phases (regardless of they may be described) can be viewed consistently.
+        - https://github.com/cdfoundation/sig-interoperability/pull/76
+        - https://github.com/cdfoundation/sig-interoperability/pull/81
+        - Terry points out that that we may need to consolidate terms between Best Practices and Interoperability SIGs 
+     
 ## 29-November-2021
 - Attendees:
     - Tara Hernandez (Google)
