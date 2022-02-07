@@ -2,6 +2,38 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 07-February-2022
+- Attendees:
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Nicola Yap (Google)
+    - Justin Abrahms (eBay)
+    - Tracy Miranda (Chainguard)
+
+
+- Agenda
+    - Mauricio's examples -- as they are from the book, should fall into the resource category
+    - Justin's eBay example would go under community -- he will prep a PR for review 
+        - We may want to consider additional templating (i.e. more functionally specific color palletes to identify different types of examples)
+    - We should now start adding tags to be able to associate incoming examples with appropriate best practice principals
+    - We are still missing the content for version control - Tara to take a look, anyone else feel free to jump in
+    - Tracy to take a stab at Security page.  NIST has [released updated guidelines](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf) that should be added to Resources. 
+        - Resources should be organized and/or tagged by function, e.g. secure software supply chain, compliance, etc.
+    - Justin and Tracy interested in helping with Assessments section
+    - Tara to start migrating Testing and Delivery content
+        - Anthony has moved on from Fidelity but Juan, Nick, Jimmy may still be interested in contribution
+    - Tara to followup with Tekton team to see if there are examples that can be published over
+    - Meta question: can we investigate having tools/policies that would allow vendors content teams to dual publish content to CDF as part of their product content strategy, similar to Google's contributions to Terraform, Springboot doc sites.
+    - For publishing:
+        - Kara can help connect with creative services.
+        - Chris A. for helping with another logistics, though any logos that are [here](https://github.com/cdfoundation/artwork) are fair game.  
+        - Any requests for foundation help can be submitted [here](https://github.com/cdfoundation/foundation/issues)
+    - Terry to take a stab at organizing user journeys as a way of navigating readers to different content areas
+    - From TOC meeting, various SIGs are pretty siloed, groups being asked to ensure there are reps for each SIG in TOC meeting.
+        - Related topic -- SIG summit at cdCon? Tara will ping Kara to see what may already be in planning.
+    - 
+
+
 ## 24-January-2022
 - Attendees:
     - Tara Hernandez (Google)
