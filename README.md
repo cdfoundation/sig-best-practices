@@ -54,6 +54,6 @@ SIG Best Practices meets the 2nd and 4th Monday of every month at 16:00UTC.  (*S
 
 * Meeting agenda and minutes: [here](./doc/meetings.md)
 * Meeting recordings: [here](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9QxICOnONBFPn_cYfJ8BsaG)
-* Zoom Bridge: [here](https://zoom.us/j/3056520502)
+* Zoom Bridge: [here](https://zoom.us/j/99816463792?pwd=WVlHUGc4TS9iSmNRU1pQWTErU3Zadz09)
 * Zoom International dial-in numbers: [here](https://zoom.us/zoomconference)
 * CDF Public Calendar (UTC): [here](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC)
