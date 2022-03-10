@@ -26,6 +26,7 @@ Full SIG Proposal: https://github.com/cdfoundation/toc/blob/master/sigs/best-pra
 * Christie Wilson ([@bobcatfish](https://github.com/bobcatfish)), Google
 * Tara Hernandez ([@tequilarista](https://github.com/tequilarista)), Google
 * Tracy Miranda ([@tracymiranda](https://github.com/tracymiranda)), CDF
+* Terry Cox ([@tdcox](https://github.com/tdcox)), Bootstrap
 
 ## Governance
 
@@ -33,11 +34,10 @@ SIG Best Practices is a [CDF Special Interest Group](https://github.com/cdfounda
 
 The process SIG Best Practices follows can be seen from [here](https://github.com/cdfoundation/toc/blob/master/GROUPS.md#sigs).
 
-Chairs and the TOC Sponsor of the SIG are
+Chairs of the SIG are
 
-* Mauricio Salatino ([@salaboy](https://github.com/salaboy)), Camunda - Chair
-* Christie Wilson ([@bobcatfish](https://github.com/bobcatfish)), Google - Chair
-* Tara Hernandez ([@tequilarista](https://github.com/tequilarista)), Google - TOC Sponsor
+* Tara Hernandez ([@tequilarista](https://github.com/tequilarista)), Google - Co-chair
+* Terry Cox ([@tdcox](https://github.com/tdcox)), Bootstrap - Co-chair
 
 ## Communication
 
