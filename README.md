@@ -25,7 +25,7 @@ Full SIG Proposal: https://github.com/cdfoundation/toc/blob/master/sigs/best-pra
 * Mauricio Salatino ([@salaboy](https://github.com/salaboy)), Camunda
 * Christie Wilson ([@bobcatfish](https://github.com/bobcatfish)), Google
 * Tara Hernandez ([@tequilarista](https://github.com/tequilarista)), Google
-* Tracy Miranda ([@tracymiranda](https://github.com/tracymiranda)), CDF
+* Tracy Miranda ([@tracymiranda](https://github.com/tracymiranda)), Chainguard
 * Terry Cox ([@tdcox](https://github.com/tdcox)), Bootstrap
 
 ## Governance
