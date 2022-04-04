@@ -1,6 +1,66 @@
+###### tags: `SIG Best Practices`
+
 # CDF SIG-Best-Practices
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+
+## 21-March-2022
+- Attendees:
+    - Tracy Miranda (Chainguard)
+    - Nicola Yap (Google)
+    - Tara Hernandez (Google)
+    - Justin Abrahms (eBay)
+    - Terry Cox (provacteur)
+
+- Agenda
+    - 3 current objectives:
+        - finalze content migration. Some copy editing is needed to improve clarity (esp. Continuous Delivery section)
+        - Really need to get with Kara et al to figure out publishing
+        - Need more structured approach to soliciting use-case-based implementation examples with problem scenarios and corresponding tech stacks
+    - Security
+        - Tracy has working draft for security content [here](https://docs.google.com/document/d/1pGUgKw2RXFaSFH9IKIlTqDoIbK_3Ba2Rv5DSzZ83Q-E/)
+        - Nicola notes that DevOps/DevSecOps/Security Software Supply Chain has a lot of overlapping topics, can we use frameworks like SLSA, NIST to help organize descriptions and concepts consistently.
+            - What does "Shift Left" mean practically? i.e. how would you apply different security approaches at different levels of your pipeline
+            - NIST is perhaps not as opinionated as it should be, hard to apply it because of this
+            - SLSA might be better at getting people started, then NIST helps identifying things later on, i.e. vulnerability management, similar
+        - Tracy suggests (seconded!) that having a TOC of the various frameworks esp. iterating which were best in what scenarios would be helpful.
+            - might also be helpful to include sites like deps.dev as a tool for one's arsenal (e.g. help identifying security dependencies)
+    - Current action items:
+        - finish edits/review of current content https://github.com/cdfoundation/best-practices-site [current PR](https://github.com/cdfoundation/best-practices-site/pull/4)
+            - Tara to replace "delivery" with "deployment" for now, will have subsequent review for consistency against definitions
+        - Justin to finish PR for the eBay pipeline doc (current and proposed) and create PR for updates to learn/assess section
+        - Nicola to talk to editor about contributing golden path example from Google (user study example)
+        - Tara to start same for Tekton
+        - Tracy to finish Security draft, speak to sigstore and other frameworks related to provenance/code signing etc.
+            - Probably create some reference at least to OpenSSF and mention SBOMs
+            - Terry to help with Why This Matters section?
+        - Propose/discuss adding a new "compliance" category under "learn" section, TBD
+        - Tara to talk to Kara about BOF (and also getting domain to publish)
+
+## 21-March-2022
+- Attendees:
+    - Terry Cox
+
+
+- Agenda
+    - PR from Tara
+
+
+## 07-March-2022
+- Attendees:
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Tracy Miranda (Chainguard)
+
+
+- Agenda
+    - Terry created PR to add user stories and video intro. Ready for review.
+    - Agreed to focus on getting content from Google Doc onto site to build out structure
+    - Once existing content is across, we should have a visible structure that will make it easier for others to contribute
+
+## 21-February-2022
+No meeting - public holiday
+
 
 ## 07-February-2022
 - Attendees:
