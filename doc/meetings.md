@@ -4,6 +4,19 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 18-April-2022
+- Attendees:
+    - Tara Hernandez (Google)
+    - Terry Cox
+
+- Agenda
+    - Continuous Delivery section still has many outstanding questions, will submit as is (now that the chapter title is updated) so further discussion can happen more easily in subsequent PRs
+    - BOF talk submitted (late, but in)
+    - Clarifications for Terry on a "Why This Matters" related to securing a CD/CD pipeline, he also brings up we need a stronger set of narratives that tie key concepts together, e.g.:
+        - why might some companies do continuous delivery without continuous integration -- Facebook model? "Just be able to revert fast if necessary".  Could also be examples at Netflix.  Meta discussion is where do you put the heaviest investments, and how reliable do your deployments need to be?  Cat videos vs. medical systems, your business goals should help dictate your pipeline function.
+        - should also think about (future work) white papers/blog posting around specific scenarios 
+    - Supply chain security doc still IP, suggestion to also include other related topics such as licensing, similar.
+
 ## 21-March-2022
 - Attendees:
     - Tracy Miranda (Chainguard)
