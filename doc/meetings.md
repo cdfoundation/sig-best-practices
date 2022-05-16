@@ -4,6 +4,42 @@
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 
+## 15-May-2022
+- Attendees: 
+    - Tara Hernandez (MongoDB)
+    - Terry Cox
+    - Moise Kameni (Hydro-Quebec)
+    - Richard Kilmurry (Vodafone Group)
+
+- Agenda
+    - No response on domain bug, Tara to followup with Kara. Justin suggests using the magic [LF jira instead](https://jira.linuxfoundation.org/plugins/servlet/theme/portals/category/4).
+        - Terry suggests we may need two tickets, one to get the domain registered/paid for, one to actually set it up so it appears as best-practices.cd.foundation.
+    - Moise looking for info on developing landscapes, shared [CDF landscape source link](https://github.com/cdfoundation/cdf-landscape)
+    - New tracking bugs for sections missing content, need to recruit more writers!
+    - Richard is working on transitioning "old school" network management into cloud native solutions. He is looking to introduce CI/CD to networking group. He and Terry are going to do some initial followups offline.
+    - For BoF, topic ideas:
+        - Intro of the project
+        - Overview of engaging in the discussion, planning and reviewing
+        - workshop an example -- Justin's game to do it with eBay scenario.
+    - Justin posted one-pager in Slack channel for eBay scenario, needs review, possible use case for BoF?
+    - Terry suggests having some kind of set of interview questions, Tara suggests making it a template form/worksheet to help people organize their thoughts.  Could be a link on the Resources main page, e.g.
+
+## 02-May-2022
+- Attendees:
+    - Tara Hernandez (Google)
+    - Terry Cox
+    - Tracy Miranda (Chainguard)
+    - Anne Marie Fred (Red Hat)
+
+- Agenda 
+    - Requested public domain ([bug](https://github.com/cdfoundation/foundation/issues/375)), will followup with Kara.
+    - Confirmed BoF at cdCon June 7, 10:50 CDT [schedule](https://sched.co/11b10)
+        - Looking for example org/company uses cases that could go into the community section of best practices site.
+    - Followup: Terry got update out to "why this matters" section preparing for Tracy's updates to security content.
+    - Tara STILL to followup with Tekton team.
+    - Anne Marie also giving a new overview [talk](https://sched.co/11TfB), let her know when the site is up.
+    - New [issue](https://github.com/cdfoundation/best-practices-site/issues/10) created to track discussion around possible compliance section, needs owner.
+
 ## 18-April-2022
 - Attendees:
     - Tara Hernandez (Google)
@@ -16,6 +52,7 @@
         - why might some companies do continuous delivery without continuous integration -- Facebook model? "Just be able to revert fast if necessary".  Could also be examples at Netflix.  Meta discussion is where do you put the heaviest investments, and how reliable do your deployments need to be?  Cat videos vs. medical systems, your business goals should help dictate your pipeline function.
         - should also think about (future work) white papers/blog posting around specific scenarios 
     - Supply chain security doc still IP, suggestion to also include other related topics such as licensing, similar.
+
 
 ## 21-March-2022
 - Attendees:
