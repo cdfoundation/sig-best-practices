@@ -8,6 +8,32 @@
 - Attendees: 
     - Tara Hernandez (MongoDB)
     - Terry Cox
+    - Tracy Miranda (Chainguard)
+
+- Agenda 
+    - we are published! [site](https://bestpractices.cd.foundation/)
+        - LF appears to be managing the tickets, check back in August :)
+    - Tracy reminds us to submit ticket in foundation repo to redirect https://cd.foundation/ "Adopt Best Practices" link to new site.
+    - Terry has an open PR for Security content, Tracy to review
+    - Tara to start draft for Version Control section today
+    - BOF Agenda:
+        - Intro of Terry/Tara/Tracy
+        - Intro to site, how to use it, how to update
+        - Then, either Justin is there to workshop and/or we can get into interactive questions, e.g.
+            - "What is the business driver for doign this at eBay (or participant organizations)"
+            - "What are the key challenges from a business perspective"
+            - "What are the key challenges from an org/cultuer perspective"
+            - Perhaps setup polls around things like: "In the set of version control, automated testing, automated delivery to stage, automated deployment"
+        - Scenario: "how do you do automated testing at scale"
+                - how to decide what to automate, how to prioritize, e.g.
+        - Scenario: "you build process/dev pipeline should be considered as a product in it's own right, requires sustainable investment -- how do you figure out how many resources you may need"
+            - corollary: how do you help your org understand the build system is not just a necessary evil cost center, but a critical business priority.
+        - Tara to create agenda doc, "group edit"
+
+## 15-May-2022
+- Attendees: 
+    - Tara Hernandez (MongoDB)
+    - Terry Cox
     - Moise Kameni (Hydro-Quebec)
     - Richard Kilmurry (Vodafone Group)
 
