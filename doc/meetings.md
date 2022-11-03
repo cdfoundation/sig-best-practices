@@ -3,8 +3,151 @@
 # CDF SIG-Best-Practices
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+## 2-November-2022
+- Attendees: 
+    - Terry Cox, 
+    - David Bendory, Google Engineering Manager / Tekton
+    - Tara Hernandez
 
-## 15-May-2022
+- Agenda 
+    - Best Practices
+        - [Assessment section](https://bestpractices.cd.foundation/learn/assess/) requires content, possible collab opportunities with some combo of #wg-supply-chain-maturity and/or #sig-software-supply-chain.  Terry to followup on this.
+        - Site metrics - there was an attempt to get Google Analytics setup, but as we're a subset of the larger LF ecosystem we can't access it the normal way. There's a complicated workaround the LF has provided.  Continues to be outstanding issue.
+    - Reference Architecture:
+        - Next steps - identify possible discussion group members for various roles as defined in Views and Viewpoints.
+            - For C-suite, perhaps start with CISOs? Tara to start on this one.  Also possible cross-pollination area for software supply chain folks.
+        - Also, possible discussions around eventing e.g. CD events as part of observability model (a la Open Telemetry)
+
+## 19-October-2022
+- Attendees: 
+    - Terry Cox, 
+    - 
+
+- Agenda 
+    - Best Practices
+        - Assessment section requires content
+        - Site metrics - issue
+    - Reference Architecture:
+        - Next steps
+
+## 17-October-2022
+- Attendees: 
+    - Terry Cox, 
+    - 
+
+- Agenda 
+    - Best Practices
+        - Assessment section requires content
+        - Site metrics - issue
+    - Reference Architecture:
+        - Next steps
+    - Change of meeting day
+        - Proposed to change meeting to Weds to permit co-chair to rejoin
+
+## 3-October-2022
+- Attendees: 
+    - Terry Cox, 
+    - 
+
+- Agenda 
+    - Best Practices
+        - Assessment section requires content
+    - Reference Architecture:
+        - Next steps
+
+## 19-September-2022
+- Attendees: 
+    - Terry Cox, 
+    - David Bendory, Google
+    - Kara de la Marck, CDF
+    - Justin Abrahms, eBay
+
+- Agenda 
+    - Reference Architecture:
+        - Terry reports that the basics of the reference architecture are now in place
+        - PRs are invited for others to contribute
+        - next up: look at business architecture -- how do you tackle the org change needed to facilitate the movement of development to continuous delivery?
+        - Need for customer collaboration. Important that we have stakeholder viewpoints represented.
+        - TODO: Kara to liase with Terry on blog post on current work and call for more input from more diverse viewpoints (eg, product developement rather than engineering).
+    
+## 5-September-2022
+- Attendees: 
+    - Terry Cox
+    - Rajat Gupta
+
+- Agenda 
+    - Reference Architecture:
+    
+## 22-August-2022
+- Attendees: 
+    - Terry Cox
+    - Mie Lieberman, Kusari
+    - Kara de la Marck
+    - Christoffer Vig
+
+- Agenda 
+    - Reference Architecture:
+        - Views and Viewpoints update
+        - Michael to look at audit and security views
+        - General discussion of trade-offs between strong governance and agile delivery
+            - Need to communicate inversion of model to rapid recovery over inevitable unexpected scenarios
+
+
+## 8-August-2022
+- Attendees: 
+    - Terry Cox
+    - Fatih Degirmenci
+    - Andrea Frittoli
+    - Parth Patel
+    - Melissa McKay
+    - Thomas Schuetz
+- Agenda 
+    - Reference Architecture:
+        - Views and Viewpoints
+        - Preview of template here: https://deploy-preview-23--prod-bp-cdf.netlify.app/architecture/
+        - Branch for PRs here: https://github.com/cdfoundation/best-practices-site/tree/refarch1
+        - Please reach out to stakeholders who can help
+
+## 25-July-2022
+- Attendees: 
+    - Terry Cox
+    - Kara de la Marck
+- Agenda 
+    - Progress on white papers:
+        - No updates
+
+## 11-July-2022
+- Attendees: 
+    - Terry Cox
+    - Kara de la Marck
+- Agenda 
+    - Progress on white papers:
+        - No updates from current workstreams
+    - Need to update other project streams on site status and opportunities for white papers etc.
+- TODO: Kara to find out about analytics on best practices site, following LF guidelines.
+- 
+## 27-June-2022
+- Attendees: 
+    - Terry Cox
+    - Christoffer Vig
+    - Tracy Miranda
+
+- Agenda 
+    - Next steps:
+        - Focus on documenting community projects wrt best practice implementation
+        - Evangelise within community and members to gain new contributors for this phase
+        - Jenkins-X white paper explaining alaignment between best practice and JX features
+        - Supply Chain Security white papers to fill in gap between theory and available tooling
+ 
+ ## 13-June-2022
+- Attendees: 
+    - Terry Cox
+
+- Agenda 
+    - Next steps
+ 
+ 
+## 29-May-2022
 - Attendees: 
     - Tara Hernandez (MongoDB)
     - Terry Cox
