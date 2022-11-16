@@ -3,6 +3,32 @@
 # CDF SIG-Best-Practices
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+## 16-November-2022
+- Attendees: 
+    - Terry Cox, 
+    - Fatih Degirmenci
+    - Emil Bäckmark
+    - Tara Hernandez
+
+- Agenda 
+    - Meeting held with software supply chain working group, initial [working document](https://docs.google.com/document/d/1rGvQv2GH8HYbQUZxg89LmWsYe8-MyeTEcj08nwULitw/)
+        - best practices site will host final copy
+        - could we make a self-assessment survey against this model?
+        - can we bring in the concept of maturity that ranges from "survivability" (what is critical need e.g. correctness, lowest level) up to "max convenience" that addresses richer optimization (e.g. more focus on velocity)
+        - can we bring in CD Events as part of HOW to do the measurement of these metrics -- provide suggested requirements e.g. to what Events will trigger on.  Canonical state of project here: https://cdevents.dev/
+            - [Talk on this](https://www.youtube.com/watch?v=GI_Aly2PKus)
+            - Targeting a 1.0 release of spec this coming year, Tekton/JenkinX early adopters? Need to identify something for the reference implementation in the documentation.
+            - Proposal to make next best practices meeting a working session to review metrics against state of cdevents
+    - Interoperability Whitepaper
+        - Never got published, 
+        - v1: https://docs.google.com/document/d/1Bgr6EHhW4wUTphU8xyMg87qzSee43PEA_gGdMnPHq9Q/edit#
+        - v2: https://docs.google.com/document/d/1o5jHbuEQuspwYOruVB4L5-rG8E1wQm5chq8QN7BrrBs/edit#
+        - v1 is in read-only and kept for historical reasons and the work is expected to continue on v2
+    - Developer Productivity
+        - Build/Test Practices - does it incorporate low level details around things like build caches, intelligent test execution, resource selection (e.g. ARM)?
+        - originally idea was to treat this level of detail as case studies, in some cases it might be a "trade-off" rather than a true "best-practice". Example, a CI system that only triggers on repo changes, but it means that CVEs might be backing up and you wouldn't be as up to date from a security perspective
+        -  
+
 ## 2-November-2022
 - Attendees: 
     - Terry Cox, 
