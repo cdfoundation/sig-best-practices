@@ -3,6 +3,39 @@
 # CDF SIG-Best-Practices
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+## 30-November-2022
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Fatih Degirmenci, CDF
+    - Emil Bäckmark, Ericcson
+    - Tara Hernandez, MongoDB
+    - Dirk Bernsau, Fujitsu
+    - Colin Bowern, Octopus Deploy
+    - Christopher Vig, JenkinsX project
+    - Robert Reeves, Liquibase
+
+- Agenda
+    - "Measurable supply chain maturity" discussion
+        - Code management notes:
+            - Can we include examples of "source" that may not be managed by version control and why they should be included, e.g.:
+                - shell scripts
+                - sql
+                - test data generation or other test artifacts
+        - Discussion from Colin and Robert on where we might include review of topics like code churn as a supply chain metric
+        - Suggestion from Emil on working to reconcile Supply Maturity categories with SIG-Interoperability terminology being defined here: https://github.com/cdfoundation/sig-interoperability/blob/main/docs/pipelines-terminology.md to have consistency of language usage
+        - Discussion on what "supply chain" actually encompasses -- commit to deploy, or more DORA-esque definition that encompasses initial business requirement to customer engagement.
+            - Best Practices SIG currently defines it thusly: https://bestpractices.cd.foundation/learn/supplychain/
+        - More broadly, a basic level of supply chain maturity we think about "features to customer", at a higher level of maturity we are able to track overall changes from broader inputs of the supply chain (e.g. a new CVE patch) and automatically handles it from both a build and notifications perspective
+            - cdevents allows us to be declarative about what policies we want to have the ability to automatically implement 
+                - Andrea mentions SAS gave a presentation on this idea that they're currently implementing (link forthcoming)
+        - Robert asks how do you capture the manual steps that can't be obviously solved programitcally
+            - examples, use of a USB key as a part of test mechanism, or a business requirement that manual input of security token keys is still required.
+            -  maybe solve this by use of a particular type of notification event that could be captured via email, slackbot, or other interactive mechanism that would then publish a response event that would re-enable the pipeline.
+                -  the time spent waiting could be it's own metric against internal SLIs e.g.
+                -  similarly, "preset" time-based events can trigger an alert if their requirements aren't met within a set time frame.
+
+    
+
 ## 16-November-2022
 - Attendees: 
     - Terry Cox, 
