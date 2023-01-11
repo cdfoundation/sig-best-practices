@@ -3,6 +3,27 @@
 # CDF SIG-Best-Practices
 
 [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+## 11-January-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Tara Hernandez, Google
+    - Fatih Degirmenci, CDF
+    - Liora Milbaum, Red Hat
+
+- Agenda:
+    - cdCon + GitOpsCon 2023
+        - cdCon CFP is now open!
+        - The event will take place on May 8-9, 2023 in Vancouver co-located with the Open Source Summit
+        - CFP Link: https://events.linuxfoundation.org/cdcon-gitopscon/program/cfp/
+        - More info is available here: https://cd.foundation/blog/2023/01/11/cdcon-2023-call-for-papers-now-open/
+    - CD for Mainframe
+        - Setting up a meeting to have an initial discussion with [OpenMainframe Project](https://www.openmainframeproject.org/)
+        - Possibility of co-authoring a whitepaper to start the collaboration
+    - CD Reference Architecture Workshop
+        - The proposed date for the workshop is March 8, 2023 taking place at the regular timeslot of the SIG Best Practices which is 16:00 UTC
+    - Supply Chain Maturity Model document update https://docs.google.com/document/d/1CDSbQezqauwL2BaFob7o2ztLk6dTQGZqZCMZ_szNhW8/edit
+    - 
+
 ## 30-November-2022
 - Attendees: 
     - Terry Cox, Bootstrap
