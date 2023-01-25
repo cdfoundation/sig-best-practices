@@ -2,7 +2,53 @@
 
 # CDF SIG-Best-Practices
 
-[Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+* [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
+* [Zoom Link](https://zoom.us/j/99816463792?pwd=WVlHUGc4TS9iSmNRU1pQWTErU3Zadz09)
+
+## 25-January-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Fatih Degirmenci, CDF
+    - Tara Hernandez, MongoDB
+    - John Mertic, LF
+    - Victor Lu, 
+    - Michael Bauer, Broadcomm
+    - Peter Wassel, Broadcomm & Open Mainframe 
+    - Ivan-Clare Ngong, SUSE
+    - Luis Diaz, SUSE 
+
+- Agenda:
+    - CD for Mainframe
+        - What is CDF CD Best Practices about?
+            - Attempting to create a breadth of understanding about the value add of continuous delivery, leveraging the understanding of organization-side capabilities, from [technical](https://cloud.google.com/architecture/devops/technical) to [cultural](https://cloud.google.com/architecture/devops/process), as defined by DORA Research
+            - [Endevor](https://www.broadcom.com/products/mainframe/application-development/endevor) mainframe change management, industry leading solution. 
+            - One of the challenges is as enterprise looks to Endeavor, there is a the same sorts of cultural challenges in getting organizational adoption of continuous delivery principles.
+            - historically there were a limited interface on mainframes.  
+        - What is [Open Mainframe Project](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjmzLa4j-P8AhWrMEQIHfAaA5kQFnoECA4QAQ&url=https%3A%2F%2Fwww.openmainframeproject.org%2F&usg=AOvVaw0H0ZNCacyDKob7V96jc5HA)?
+            - this initiative seeks to bridge the gap between mainframes from a process perspective and to facilitate integration with cloud hosted or other non-mainframe resources.
+            - zowe CLI meant to faciliate this.
+            - main idea is to extend the ability of traditional non-mainframe devtools (e.g. Jenkins, VSCode) to work in mainframe environment.
+                - Terry points out CDF CDEvents could be a useful tool
+            - To Broadcomm trying to push idea of "right platform for the job", but make sure mainframes are accounted for due to the prevalence of that type of platform in industry.
+            - Peter definitely doesn't think containers is a big element of mainframe continuous delivery for most customers, though IBM is making investment via RedHat.
+            - security/compliance artifacts (SBOMs, provenance) are being introduced in the Endeavor platform.
+                - Terry points out this is ultimately an asset management problem, can all of these artifacts (security and otherwise) be maintained and referenced in a contiguous way.
+        - Key areas of interoperability between mainframe and non-mainframe platforms for Broadcomm
+            - "Bridge for Git" - syncs code between Endeavor SCM and git, enables git dev workflows with mainframe interaction
+            - VSCode extensionts
+            - tools migration such as test framework extensions so mainframe tests can be incorporated into centralized cross-distro test results
+            - In general Endeavor was originally meant to be a single solution for everything, a direction Github is now going with things like Codespaces, Releases.  Endeavor evolution now going from more isolated ecosystem to interoperatiblity with other systems, including with eye towards producing telemetry to measure business value with regards to velocity and reliability a la DORA metrics and capabilities.
+        - The applicability of the CD Best Practices to mainframes
+            - the needs are the same but technically it's easier for dev practioners to demo/research with containers, barrier to entry is higher for mainframes
+            - Open Mainframe project is working on bringing up a mainframe online which may open up further opportunities for community members to explore the topic
+            - Ivan-Clare notes they were using Rancher on Z but had to customize the actual CI/CD agents to work on their hardware (s390?)
+        - Opportunities to collaborate
+            - A collaborative whitepaper could help pass the word and call people to action to evangelize the idea further and nring contributions to the CDF CD Best Practices site from CD for Mainframe perspective
+    - CDF Online Workshops
+        - CD Reference Architecture is planned to be the first one
+    - <addme>
+
+
 ## 11-January-2023
 - Attendees: 
     - Terry Cox, Bootstrap
