@@ -5,6 +5,20 @@
 * [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 * [Zoom Link](https://zoom.us/j/99816463792?pwd=WVlHUGc4TS9iSmNRU1pQWTErU3Zadz09)
 
+## 8-March-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Fatih Degirmenci, CDF
+    - Tara Hernandez, MongoDB
+- Agenda:
+    - [Supply Chain Maturity Metrics](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/supply-chain-maturity.md)
+        - What's next? (e.g., incorporating it into the Best Practices site?)
+        -The doc could first be published on the best practices site and then put into a PDF 
+    - Next steps with CD for Mainframe collaboration
+        - It would be good that OpenMainframe folks take the lead in bringing info (e.g., introduction to the field) and CDF could incorporate CD aspects
+    - 
+
+
 ## 25-January-2023
 - Attendees: 
     - Terry Cox, Bootstrap
