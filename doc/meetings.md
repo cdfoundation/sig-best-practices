@@ -5,6 +5,59 @@
 * [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 * [Zoom Link](https://zoom.us/j/99816463792?pwd=WVlHUGc4TS9iSmNRU1pQWTErU3Zadz09)
 
+## 3-May-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Tara Hernandez, MongoDB
+
+- Agenda:
+    - [New mainframe oriented doc](https://docs.google.com/document/d/1uDHU0TdOAZa95n7HI7pubS8SBgFOAtHuC8GiOsfpsXc/edit) underway in conjunction with Broadcom
+        - may be an ideal application for CDEvents (integrating arbitrary systems and procs into a CD flow)
+        - possibility of including IBM in this discussion?
+        - Mainframe is often part of a solution that has high-compliance requirements, but is likely also part of a complex multi-node system, so ensuring secure and robust CD processes is extremely important. 
+    - The biggest challenge is the end to end piece -- how do you get a CI/CD solution that out of the box is generally best practice compliant -- no tools cover the whole breadth of every part of complete to end in the solution becuse it's too hard. The industry accepted standard is that the customer is going to have to do a lot of work to setup and maintain.
+        - 
+ 
+## 19-April-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+
+- Agenda:
+    - 
+
+## 5-April-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Fatih Degirmenci, CDF
+    - Tara Hernandez, MongoDB
+- Agenda:
+    - [Supply Chain Maturity Metrics](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/supply-chain-maturity.md)
+        - Progress
+        - [PR ](https://github.com/cdfoundation/best-practices-site/pull/31) is up for review
+        - Preview is available [here](https://deploy-preview-31--prod-bp-cdf.netlify.app/community/supply-chain-security-metrics/)
+    - Translation of Best Practices 
+        - [Gitlocalize](https://gitlocalize.com/) has been setup for the best practices site and it should do its magic, hopefully soon
+        - Ambassadors could then be asked to take part in verifying the translation as well as they can be asked/encouraged to adopt a translation    
+        - The topic is added to Ambassador 2023 Kickoff Meeting to call for volunteers
+    - Next steps with CD for Mainframe collaboration
+        - Draft PR being prepared
+        - To help with the contributions a Google Doc was created by John Mertic which is available [here](https://docs.google.com/document/d/1uDHU0TdOAZa95n7HI7pubS8SBgFOAtHuC8GiOsfpsXc/edit). Please request access if you want to contribute.
+    - 
+
+## 8-March-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Fatih Degirmenci, CDF
+    - Tara Hernandez, MongoDB
+- Agenda:
+    - [Supply Chain Maturity Metrics](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/supply-chain-maturity.md)
+        - What's next? (e.g., incorporating it into the Best Practices site?)
+        -The doc could first be published on the best practices site and then put into a PDF 
+    - Next steps with CD for Mainframe collaboration
+        - It would be good that OpenMainframe folks take the lead in bringing info (e.g., introduction to the field) and CDF could incorporate CD aspects
+    - 
+
+
 ## 25-January-2023
 - Attendees: 
     - Terry Cox, Bootstrap
