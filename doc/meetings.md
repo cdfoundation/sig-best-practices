@@ -5,6 +5,64 @@
 * [Agenda in HackMD](https://hackmd.io/uxoIwj7fTjKkI161-IZeFw)
 * [Zoom Link](https://zoom.us/j/99816463792?pwd=WVlHUGc4TS9iSmNRU1pQWTErU3Zadz09)
 
+## 28-June-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Fatih Degirmenci, CDF
+    - Tara Hernandez, MongoDB
+    - John Mertic, OpenMainframe Project
+    - Michael Bauer, Broadcom
+    - Moïse Kameni, Hydro Quebec
+    - Victor Lu
+    - Oscar Cortes
+
+- Agenda:
+    - Mainframes
+        - The doc to collaborate on is available [here](https://docs.google.com/document/d/1uDHU0TdOAZa95n7HI7pubS8SBgFOAtHuC8GiOsfpsXc/edit#)
+        - We need more engagement from the OpenMainframe initiative, to help provide more domain expert authorship
+        - Want to have a narrative that mainframes are in fact not that different from other environments -- opportunity to showcase where the same principles apply?
+            - this will be most often be relevant for Hybrid deployments where mainframe could be thematically equivalent to local data center.
+        - Action Items:
+            - Possibly have an addition to the community section for an example OpenMainframe CI/CD workload 
+            - Also have a section in Learn that to speaks to anything mainframe-specific 
+            - Solicit additional contributors from OpenMainframe project
+                - https://tac.openmainframeproject.org/meetings/
+                - John or Michael to find info on "Zoey" meeting and help find writers
+            - Current descriptions of bestpractice principles and terms: https://bestpractices.cd.foundation/learn
+    - Translations
+        - [Contributor guide](https://bestpractices.cd.foundation/community/contribute/)
+        - [Example workflow from CNCF](https://github.com/cncf/cartografos/pull/57/files)
+        - Action Items:
+            - Check status of docker container -- is everything up to date
+            - Review contributor guide for correctness (update as necessary)
+            - Confirm that local testing shows localizations with browser settings updates
+        
+
+## 14-June-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - 
+
+- Agenda:
+    - Translations
+
+## 31-May-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Tara Hernandez, MongoDB
+
+- Agenda:
+    - Translations
+    - Mainframe White Paper
+
+## 17-May-2023
+- Attendees: 
+    - Terry Cox, Bootstrap
+    - Mia Villasenor, Google (CI/CD DevRel)
+
+- Agenda:
+    - Intro to Best Practices SIG
+
 ## 3-May-2023
 - Attendees: 
     - Terry Cox, Bootstrap
